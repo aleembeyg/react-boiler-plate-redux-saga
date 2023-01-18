@@ -1,0 +1,8 @@
+.app-container {
+  background-color: #fff;
+  max-width: 640px;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 0 0 5px #666;
+  box-sizing: border-box;
+}
